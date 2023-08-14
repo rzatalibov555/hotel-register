@@ -1,0 +1,14 @@
+body{
+    background-image: url('https://res.cloudinary.com/lastminute/image/upload/q_auto/v1675730425/x8hghutwj211igifkjew.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.main{
+    width: 100%;
+    min-height: 100vh;
+    background: #2c4b8bba;
+    float: left;
+    color: white;
+    padding: 20px;
+}
